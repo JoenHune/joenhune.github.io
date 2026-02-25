@@ -45,7 +45,7 @@ layout: page
     <span class="time">2018 — 2020</span>
     <div class="timeline-body">
       <strong>Research Assistant</strong> · Sun Yat-sen University<br>
-      <span class="desc">Multi-sensor integration & calibration, hardware time-sync module, and reusable middleware platforms for multi-robot research.</span>
+      <span class="desc">Multi-sensor integration & calibration, and reusable middleware platforms for multi-robot research.</span>
     </div>
   </div>
 </div>
